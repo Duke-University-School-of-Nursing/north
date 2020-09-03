@@ -1,0 +1,25 @@
+{
+  "name": "@duson/north",
+  "version": "1.0.0",
+  "description": "North brings migrations to Sequelize applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duke-University-School-of-Nursing/north.git"
+  },
+  "keywords": [
+    "north",
+    "south",
+    "sequelize",
+    "node"
+  ],
+  "author": "Terry J. Owen <terry.owen@duke.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Duke-University-School-of-Nursing/north/issues"
+  },
+  "homepage": "https://github.com/Duke-University-School-of-Nursing/north#readme"
+}
